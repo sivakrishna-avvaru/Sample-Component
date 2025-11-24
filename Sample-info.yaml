@@ -4,8 +4,10 @@ metadata:
   name: sample-service
   description: demo service
   annotations:
-    github.com/project-slug: ramannkhanna2/test
+    github.com/project-slug: sivakrishna-avvaru/Sample-Component
 spec:
   type: service
   owner: team-a
   lifecycle: experimental
+  dependencyOf: 
+    - component:default/artist-web-lookup
