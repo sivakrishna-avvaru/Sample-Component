@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sample-component
-  description: demo service
+  description: demo component
   annotations:
     github.com/project-slug: sivakrishna-avvaru/Sample-Component
 spec:
