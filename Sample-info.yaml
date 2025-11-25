@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: sivakrishna-avvaru/Sample-Component
 spec:
   type: service
-  owner: team-a:user
+  owner: team-a
   lifecycle: experimental
   dependsOn: ['component:example-website']
